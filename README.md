@@ -6,7 +6,7 @@
 
 ## Technologies
 
-The following technologies have been implemented in this project
+The following technologies have been implemented in this project :
 
 * React
 * Tailwindcss
